@@ -1,0 +1,1 @@
+ C:\\Users\\user\\StudioProjects\\BMICalculator\\.dart_tool\\flutter_build\\29b07fa6f9328aab16af6809cb303d99\\native_assets.json: 
