@@ -19,6 +19,7 @@ class _ResultScreenState extends State<ResultScreen> {
     double bmiValue = widget.weight / (finalHeight * finalHeight);
 
 
+
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
